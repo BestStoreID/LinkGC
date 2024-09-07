@@ -7,15 +7,11 @@ const profileSettings = {
   metaKeywords: "Vynaa, Vynaa Valerie, profile Vynaa, siapa Vynaa?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
   imageSrc: "media/vynaa.jpg", // Path ke gambar profil
-  name: "Vynaa Valerie", // Nama profil
-  occupation: "Creator & Developer", // Pekerjaan atau jabatan
+  name: "ʙᴇꜱᴛ ꜱᴛᴏʀᴇ ɪᴅ", // Nama profil
+  occupation: "𝐉𝐁 𝐓𝐑𝐔𝐒𝐓𝐄𝐃 𝐃𝐀𝐍 𝐌𝐔𝐑𝐀𝐇", // Pekerjaan atau jabatan
   links: [
-    { title: "GitHub", url: "https://github.com/VynaaValerie", icon: "fa-github" }, // Tautan GitHub
-    { title: "Instagram", url: "https://www.instagram.com/vynaa_valerie", icon: "fa-instagram" }, // Tautan Instagram
-    { title: "Telegram", url: "https://t.me/VLShop2", icon: "fa-telegram" }, // Tautan Telegram
-    { title: "Email", url: "mailto:vynaavalerie@example.com", icon: "fa-envelope" }, // Tautan Email
-    { title: "WhatsApp", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
-    { title: "YouTube", url: "https://youtube.com/@VynaaChan", icon: "fa-youtube" } // Tautan YouTube
+    { title: "𝐁𝐄𝐒𝐓 𝐒𝐓𝐎𝐑𝐄 ( 𝐉𝐁 | 𝐀𝐋𝐋𝐆𝐀𝐌𝐄 )", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "𝐁𝐄𝐒𝐓 𝐒𝐓𝐎𝐑𝐄 ( 𝐉𝐎𝐊𝐈 𝐁𝐋𝐎𝐗 𝐅𝐑𝐔𝐈𝐓 )", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
   ]
 };
 
@@ -51,4 +47,3 @@ profileSettings.links.forEach(link => {
     linkBoxes.appendChild(linkElement);
   }
 });
- 
