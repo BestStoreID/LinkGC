@@ -10,8 +10,8 @@ const profileSettings = {
   name: "ʙᴇꜱᴛ ꜱᴛᴏʀᴇ ɪᴅ", // Nama profil
   occupation: "𝐉𝐁 𝐓𝐑𝐔𝐒𝐓𝐄𝐃 𝐃𝐀𝐍 𝐌𝐔𝐑𝐀𝐇", // Pekerjaan atau jabatan
   links: [
-    { title: "( 𝐉𝐁 | 𝐀𝐋𝐋𝐆𝐀𝐌𝐄 )", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
-    { title: "( 𝐉𝐎𝐊𝐈 𝐁𝐋𝐎𝐗 𝐅𝐑𝐔𝐈𝐓 )", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "(GC ALLGAME)", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "(GC JOKI BLOX FRUIT)", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
   ]
 };
 
