@@ -7,11 +7,11 @@ const profileSettings = {
   metaKeywords: "Vynaa, Vynaa Valerie, profile Vynaa, siapa Vynaa?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
   imageSrc: "media/1.png", // Path ke gambar profil
-  name: "ʙᴇꜱᴛ ꜱᴛᴏʀᴇ ɪᴅ", // Nama profil
+  name: "𝐁𝐄𝐒𝐓 𝐒𝐓𝐎𝐑𝐄 𝐈𝐃", // Nama profil
   occupation: "𝐉𝐁 𝐓𝐑𝐔𝐒𝐓𝐄𝐃 𝐃𝐀𝐍 𝐌𝐔𝐑𝐀𝐇", // Pekerjaan atau jabatan
   links: [
-    { title: "(GC ALLGAME)", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
-    { title: "(GC JOKI BLOX FRUIT)", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "𝑮𝑪 𝑨𝑳𝑳𝑮𝑨𝑴𝑬", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "𝑮𝑪 𝑩𝑳𝑶𝑿𝑭𝑹𝑼𝑰𝑻", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
   ]
 };
 
