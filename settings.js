@@ -1,8 +1,8 @@
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
   favicon: "media/vynaa.jpg", // Path ke favicon
-  title: "Vynaa Valerie | Profile", // Judul halaman
-  metaTitle: "Vynaa || Profile", // Meta title untuk SEO
+  title: "BESTSTORE | LINK", // Judul halaman
+  metaTitle: "BESTSTORE | LINK", // Meta title untuk SEO
   metaDescription: "Profile Website Vynaa Valerie, Creator and Dev", // Deskripsi meta untuk SEO
   metaKeywords: "Vynaa, Vynaa Valerie, profile Vynaa, siapa Vynaa?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
@@ -10,8 +10,8 @@ const profileSettings = {
   name: "ʙᴇꜱᴛ ꜱᴛᴏʀᴇ ɪᴅ", // Nama profil
   occupation: "𝐉𝐁 𝐓𝐑𝐔𝐒𝐓𝐄𝐃 𝐃𝐀𝐍 𝐌𝐔𝐑𝐀𝐇", // Pekerjaan atau jabatan
   links: [
-    { title: "𝐁𝐄𝐒𝐓 𝐒𝐓𝐎𝐑𝐄 (𝐉𝐁 | 𝐀𝐋𝐋𝐆𝐀𝐌𝐄)", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
-    { title: "𝐁𝐄𝐒𝐓 𝐒𝐓𝐎𝐑𝐄 (𝐉𝐎𝐊𝐈 𝐁𝐋𝐎𝐗 𝐅𝐑𝐔𝐈𝐓)", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "( 𝐉𝐁 | 𝐀𝐋𝐋𝐆𝐀𝐌𝐄 )", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "( 𝐉𝐎𝐊𝐈 𝐁𝐋𝐎𝐗 𝐅𝐑𝐔𝐈𝐓 )", url: "https://wa.me/6282389924037?text=hai", icon: "fa-whatsapp" }, // Tautan WhatsApp
   ]
 };
 
