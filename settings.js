@@ -1,12 +1,12 @@
 // Objek untuk menyimpan semua pengaturan profil
 const profileSettings = {
-  favicon: "media/vynaa.jpg", // Path ke favicon
+  favicon: "media/1.png", // Path ke favicon
   title: "BESTSTORE | LINK", // Judul halaman
   metaTitle: "BESTSTORE | LINK", // Meta title untuk SEO
   metaDescription: "Profile Website Vynaa Valerie, Creator and Dev", // Deskripsi meta untuk SEO
   metaKeywords: "Vynaa, Vynaa Valerie, profile Vynaa, siapa Vynaa?", // Keywords meta untuk SEO
   metaRobots: "index, follow", // Pengaturan robot meta untuk SEO
-  imageSrc: "media/vynaa.jpg", // Path ke gambar profil
+  imageSrc: "media/1.png", // Path ke gambar profil
   name: "ʙᴇꜱᴛ ꜱᴛᴏʀᴇ ɪᴅ", // Nama profil
   occupation: "𝐉𝐁 𝐓𝐑𝐔𝐒𝐓𝐄𝐃 𝐃𝐀𝐍 𝐌𝐔𝐑𝐀𝐇", // Pekerjaan atau jabatan
   links: [
