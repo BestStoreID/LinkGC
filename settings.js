@@ -11,7 +11,8 @@ const profileSettings = {
   occupation: "𝐉𝐁 𝐓𝐑𝐔𝐒𝐓𝐄𝐃 𝐃𝐀𝐍 𝐌𝐔𝐑𝐀𝐇", // Pekerjaan atau jabatan
   links: [
     { title: "𝑮𝑪 𝑨𝑳𝑳𝑮𝑨𝑴𝑬", url: "https://chat.whatsapp.com/JAg3A1Kk5GhEPWzKlyPK5N", icon: "fa-whatsapp" }, // Tautan WhatsApp
-    { title: "𝑮𝑪 𝑩𝑳𝑶𝑿𝑭𝑹𝑼𝑰𝑻", url: "https://t.me/6285810505334", icon: "fa-telegram" }, // Tautan WhatsApp
+    { title: "𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴", url: "https://t.me/6285810505334", icon: "fa-telegram" }, // Tautan WhatsApp
+    { title: "𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷", url: "https://wa.me/6285810505334", icon: "fa-whatsapp" }, // Tautan WhatsApp
   ]
 };
 
