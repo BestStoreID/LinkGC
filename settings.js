@@ -10,7 +10,8 @@ const profileSettings = {
   name: "𝐁𝐄𝐒𝐓 𝐒𝐓𝐎𝐑𝐄", // Nama profil
   occupation: "𝐉𝐁 𝐓𝐑𝐔𝐒𝐓𝐄𝐃 𝐃𝐀𝐍 𝐌𝐔𝐑𝐀𝐇", // Pekerjaan atau jabatan
   links: [
-    { title: "𝑮𝑮𝑹𝑼𝑷 𝑪𝑯𝑨𝑻 (𝑭𝑹𝑬𝑬 𝑺𝑪)", url: "https://chat.whatsapp.com/IAtefPrNkJ5BqTL8Icv7AG", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "𝑮𝑹𝑼𝑷 𝑪𝑯𝑨𝑻 (𝑭𝑹𝑬𝑬 𝑺𝑪)", url: "https://chat.whatsapp.com/IAtefPrNkJ5BqTL8Icv7AG", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "𝑪𝑯𝑨𝑵𝑵𝑬𝑳 (𝑻𝑬𝑺𝑻𝑰)", url: "https://whatsapp.com/channel/0029VazkZXt0lwgxEjfMXp1k", icon: "fa-whatsapp" }, // Tautan WhatsApp
     { title: "𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴", url: "https://t.me/+6285810505334", icon: "fa-telegram" }, // Tautan WhatsApp
     { title: "𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷", url: "https://wa.me/6285810505334", icon: "fa-whatsapp" } // Tautan WhatsApp
   ]
